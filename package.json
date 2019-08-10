@@ -1,0 +1,29 @@
+{
+  "name": "ol-graticule-control",
+  "version": "0.1.0",
+  "description": "graticule control of openlayers 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p .",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": "gucheen/ol-graticule-control",
+  "keywords": ["ol", "openlayers", "graticule", "map", "control", "javascript"],
+  "author": {
+    "name": "Cheng Gu",
+    "url": "https://www.guchengf.me"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/ol": "^5.3.4",
+    "ol": "^5.3.3"
+  },
+  "peerDependencies": {
+    "ol": "^5.3.3"
+  }
+}
