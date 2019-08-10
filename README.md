@@ -1,8 +1,12 @@
 # ol-graticule-control
 
+![https://www.npmjs.com/package/ol-graticule-control](https://badgen.net/npm/v/ol-graticule-control)
+
 The missing Graticule control of OpenLayers 5.
 
 To show/hide Graticule.
+
+DEMO: [https://stackblitz.com/edit/js-8ddtop](https://stackblitz.com/edit/js-8ddtop)
 
 ## Usage
 ```
